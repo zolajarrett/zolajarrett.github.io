@@ -1,8 +1,12 @@
 h1 {
     text-align: center;
+    font-style: italic; 
 }
    img:hover {
   transform: scaleX(-1);
+}
+img {
+    border-radius: 8px;
 }
 body{background-color: saddlebrown;}
 a:link {
@@ -15,12 +19,14 @@ a:visited {
     color: orange;
 }
 img {
-    margin-left: -8px;
-    margin-top: -16px;
+    margin: auto;
+    display: block;
+    margin-top: 18px;
 }
 a{
-    margin-left: -1px;
+    margin-left: 545px;
+    margin-top: -16px;
 }
 p{
-    margin-left: -1px;
+    text-align: center;
 }
