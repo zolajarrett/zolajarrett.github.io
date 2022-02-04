@@ -4,6 +4,23 @@ h1 {
    img:hover {
   transform: scaleX(-1);
 }
-a:hover{color: rgb(224, 31, 31);}
-a:visited{color: rgb(17, 8, 105);}
 body{background-color: saddlebrown;}
+a:link {
+    color: blue;
+}
+a:hover {
+    color: white;
+}
+a:visited {
+    color: orange;
+}
+img {
+    margin-left: -8px;
+    margin-top: -16px;
+}
+a{
+    margin-left: -1px;
+}
+p{
+    margin-left: -1px;
+}
